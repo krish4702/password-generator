@@ -52,3 +52,25 @@ hr{
     font-size: 25px;
     
 }
+
+@media  screen and (max-width:1200px){
+  .container{
+    margin-left: -10px;
+  }
+
+  h1{
+    margin-left: 50px;
+  }
+
+  p{
+    margin-left: 50px;
+  }
+
+  .generate{
+    margin-left: 80px;
+  }
+
+  hr{
+    width: 50%;
+  }
+}
